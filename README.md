@@ -14,5 +14,5 @@ Original project inspiration from * **Raj Prakash Shinde** [GitHub](https://gith
 # Dependencies
 * [Arduino 1.8.12](https://www.arduino.cc/en/Main/Software)
 * [AccelStepper Library](https://www.airspayce.com/mikem/arduino/AccelStepper/index.html) **Follow the steps to install the AccelStepper Libraries**
-* [Adafruit_SH1106](https://github.com/wonho-maker/Adafruit_SH1106)
+* [Adafruit_SH1106](https://github.com/wonho-maker/Adafruit_SH1106) **Check what 4pin screen you have purchased and ensure you have the correct library**
 * [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
