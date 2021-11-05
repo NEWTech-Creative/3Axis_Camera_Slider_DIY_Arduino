@@ -5,7 +5,7 @@ My DIY 3 Axis Camera Slider Project
 <p align="center"><img src="/3axisslider.png"/></p>
 
 # Authors
-* NEWTech-Creative * **Myles Newton** [GitHub](https://github.com/NEWTech-Creative)
+* NEWTech-Creative * **Myles Newton** [GitHub](https://github.com/NEWTech-Creative) [YouTube](https://www.youtube.com/channel/UCROCWhGcdRSwRNmuOSTrljg)
 * Original project inspiration from * **Raj Prakash Shinde** [GitHub](https://github.com/RajPShinde)
 
 # Dependencies
