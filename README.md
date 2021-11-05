@@ -1,11 +1,8 @@
 # 3Axis Camera Slider
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+My DIY 3 Axis Camera Slider Project
 
 <p align="center"><img src="/3axisslider.png"/></p>
-
-
-# 3Axis_Camera_Slider_DIY_Arduino
-My DIY 3 Axis Camera Slider Project
 
 # Authors
 NEWTech-Creative * **Myles Newton** [GitHub](https://github.com/NEWTech-Creative)
