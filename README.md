@@ -1,7 +1,7 @@
 # CamSlider
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-<p align="center"><img src="/3axisSlider.jpg"/></p>
+<p align="center"><img src="//3axisslider.png"/></p>
 
 
 # 3Axis_Camera_Slider_DIY_Arduino
