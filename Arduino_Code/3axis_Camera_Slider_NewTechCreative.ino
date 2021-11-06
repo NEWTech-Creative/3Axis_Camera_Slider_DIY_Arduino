@@ -2,7 +2,7 @@
 // 06/04/2019 by RZtronics <raj.shinde004@gmail.com>
 // 03/11/2021 Adapted by NewTech Creative <newtechcreative@gmail.com>
 // original Project homepage: http://RZtronics.com/
-// Adapted 3 axis Project: NewTech Creative YoutTube chanel
+// Adapted 3 axis Project: NewTech Creative YoutTube channel: https://www.youtube.com/channel/UCROCWhGcdRSwRNmuOSTrljg
 ///////////////////////////////////////////////////////////////////////////////////////
 //Terms of use
 ///////////////////////////////////////////////////////////////////////////////////////
